@@ -1,0 +1,57 @@
+CS09 608(P) :MINI PROJECT
+ABSTRACT
+Government Engineering College
+Sreekrishnapuram
+Department of
+Computer Science & Engineering
+TOPIC : ZERO KNOWLEDGE
+AUTHENTICATION SCHEME FOR
+MULTIMEDIA DATA
+PROJECT GUIDE : SALIM A
+GROUP MEMBERS:
+ANISHA (EPAJECS011)
+DIVYA A (EPAJECS025)
+LEKSHMI RAJASHEKHARAN (EPAJECS029)
+RESMI C S (EPAJECS050)
+SREETHA S (EPAJECS058)
+1
+Abstract
+The popularity of multimedia applications is rapidly growing
+nowadays. The confidentiality of video communication is of primary con-
+cern for commercial usage especially in applications such as video on-demand
+services or business meetings. Video encryption has become a specialized re-
+search branch in data encryption fields because of its particular requirement
+and the special properties of the video data. Video encryption technology is
+a combination of cryptography and video technology.
+Cryptography is a science of information security. Cryptography’s
+aim is to construct schemes or protocols that can still accomplish certain tasks
+even in presence of adversary. A basic task in cryptography is to enable users
+to communicate securely over an insecure channel in a way that guarantees
+their transmission’s privacy and authenticity. For this, a variety of encryp-
+tion algorithms are available. A zero-knowledge proof protocol is a powerful
+cryptographic system. It is supposed to ensure that no information is leaked
+during its execution. It can be applied in many cryptographic applications
+and operations such as identification, authentication, key exchange etc. A
+zero-knowledge protocol is an interactive method for one party to prove to
+another that a statement is true, without revealing anything other than the
+certainty of the statement.
+The idea behind the project is to develop an application to en-
+crypt videos/images by providing authentication using zero-knowledge pro-
+tocol. Visual cryptography exploits human visual systems(ie., Human eye)
+to recover the secret image without any complex decryption algorithms and
+without the aid of computers. A simple form of the visual cryptography
+scheme is the two-out-of-two visual cryptography scheme. It encrypts a black
+and white secret image into two shadow images, called transparent shares,
+where each shadow image looks like noise when inspected individually and
+gives no information about the original secret image. Then, each shadow
+image is given to a participant. The secret image can be decrypted directly
+by the human visual system, when these two transparent shares are stacked
+together and carefully aligned.
+2
+Here we are presenting a new zero-knowledge proof of authentication scheme
+based on the concept of visual cryptography without pixel expansion, the vi-
+sual zero-knowledge proof of authentication scheme. This scheme has a wide
+potential usage because it does not require complex mathematical computa-
+tion that must be performed on a computer as in the current zero-knowledge
+proof of authentication systems.
+
